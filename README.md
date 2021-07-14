@@ -8,13 +8,13 @@
 <a href="https://github.com/Lody-Tambak"><img title="Github" src="https://img.shields.io/badge/Kang-Kebun__-brightgreen?style=for-the-badge&logo=github"></a>
 <a href="https://www.instagram.com/lodytambak/"><img title="Instagram" src="https://img.shields.io/badge/INSTAGRAM-purple?style=for-the-badge&logo=instagram"></a>
 
-## About Tool :
-Terkey Termux [ </b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="35px"> ] Is An Interest For All Useful Tools To Display Right And Left Keys</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="20px">
+## Tools :
+Tombol Termux [ </b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="35px"> ] adalah Satu Kepentingan Dalam Termux</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="20px">
 
 
 <p align="center"><img src="https://user-images.githubusercontent.com/79711216/124872731-d34abb00-dfef-11eb-8843-384199bb630f.gif" alt="Bt">
 
-## Only Available At : 
+## Telah Dicoba : 
 * Termux
 ## Termux [ </b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="35px"> ] :
 
