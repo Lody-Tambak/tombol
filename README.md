@@ -27,3 +27,4 @@ git clone https://github.com/Lody-Tambak/tombol
 ```
 * `cd tombol`
 * `python2 main.py`
+o
